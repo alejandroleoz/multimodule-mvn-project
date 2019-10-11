@@ -1,0 +1,6 @@
+# ide settings
+**/.idea/
+**/*.iml
+
+# mvn output
+**/target/
